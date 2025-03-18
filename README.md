@@ -1,6 +1,7 @@
 
 ### 1. 效果图
 ![企业微信截图_7698135e-4ecc-4334-8f3a-76ef8e5ad700](https://github.com/user-attachments/assets/43f8880e-d19c-4e12-9df3-1b203d026f38)
+ps：图片未加载出来是🪜网络问题
 
 ### 2. 时序图
 ![企业微信截图_326219bf-7fef-414f-ac68-eb62ae572186](https://github.com/user-attachments/assets/5149dfb0-f8c5-41e3-9570-ea0507733014)
